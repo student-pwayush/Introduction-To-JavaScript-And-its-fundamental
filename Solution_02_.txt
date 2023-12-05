@@ -1,0 +1,29 @@
+Solution_02
+
+JavaScript includes operators that perform some operation on single or multiple operands (data value) and produce a result.
+JavaScript includes various categories of operators: Arithmetic operators, Comparison operators, Logical operators, Assignment operators, Conditional operators.
+                                 
+                                 &
+
+                                 
+                                 
+                                 
+                Operator	  Name	                              Example
+                      
+                 =            Assignment operator	              a = 7; // 7
+                 +=	          Addition assignment	              a += 5; // a = a + 5
+                 -=	          Subtraction Assignment	          a -= 2; // a = a - 2
+                 *=	          Multiplication Assignment	          a *= 3; // a = a * 3
+                 /=	          Division Assignment	              a /= 2; // a = a / 2
+                 %=	          Remainder Assignment	              a %= 2; // a = a % 2
+                 **=	      Exponentiation Assignment	          a **= 2; // a = a**2
+
+
+                          Arithmetic                Comparison                            Logical
+                
+                        Negation (-)	            Equality (=)	                      Not
+                  Exponentiation (^)	            nequality (<>)	                      And  
+  Multiplication and division (*, /)	            Less than (<)	                      Or
+                 Integer division ()	            Greater than (>)	X                 or
+            Modulus arithmetic (Mod)	            Less than or equal to (<=)	
+     Addition and Subtraction (+, -)	            Greater than or equal to (>=)	

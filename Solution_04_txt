@@ -1,0 +1,13 @@
+Operator precedence and associativity specify the order in which operations are performed in a complex expression, but they do not specify the order in which the subexpressions are evaluated. 
+JavaScript always evaluates expressions in strictly (left-to-right) order.
+
+
+Operator precedence refers to the priority given to operators while parsing a statement that has more than one operator performing operations in it. It is important to ensure the correct result and also to help the compiler understand what the order of operations should be. Operators with higher priorities are resolved first. But as one goes down the list, the priority decreases and hence their resolution.
+
+Precedence and Associativity: Associativity in general states that irrespective of the order of operands for a given operation the result remains the same. Precedence is used to tell the compiler what operations should be performed first. For example, consider three numbers 2, 3, and 4. Now consider two operations:
+
+( 2 + 3 ) + 4 = 2 + ( 3 + 4 )
+( 2 >= 3 ) or ( 1 != 4 )
+The first operation is associativity where the order does not matter. The second case is precedence, where in order to reach the desired result there has to be a proper order in which operations will be performed. 
+
+Associativity is not a singular concept while dealing with precedence operations has to be dealt either with left-to-right or right-to-left associativity. 

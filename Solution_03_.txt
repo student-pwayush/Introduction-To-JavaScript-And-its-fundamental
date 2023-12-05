@@ -1,0 +1,53 @@
+ (1) Unary operators:-
+
+(A) Unary operators: which require one operand (Un).
+
+(B) Providing two or more can result in a syntax error.
+
+(C)  E.g. ++, - - etc are unary operators.    
+
+(D)  typeof "hello"
+        // string
+
+
+
+(2) Binary operators:-
+
+(A) Binary operators: which require two operands (Bi).
+
+(B) Such operators result in a syntax error.
+
+(C) E.g. +,-,*,/ are binary operators.
+
+(D) 
+
+(E)       10 + 20
+       // 30
+
+       20 - 5
+     // 15
+
+     30 / 6
+     // 5
+
+
+
+(3) Ternary operators:- 
+
+(A) Ternary operators: which require three operands (Ter).
+
+(B) In JavaScript, there is one operator that falls under this category – the conditional operator. 
+
+(C) In other languages, perhaps, there could be more examples.
+
+(D)  The ternary operator is a simplified conditional operator like if / else.
+
+Syntax: condition ? <expression if true> : <expression if false>
+
+Here is an example using if / else:
+
+(E)    const score = 80
+      const scoreRating = score > 50 ? "Good" : "Poor"
+
+      // "Good"
+      

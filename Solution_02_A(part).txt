@@ -1,0 +1,26 @@
+Difference b/w Java Script And HTML 
+
+Java Script--
+
+A- JavaScript is a scripting language and can perform logic, make decisions, and manipulate the HTML DOM
+
+B- JavaScript is written in a script and uses syntax similar to other programming languages.
+
+C- Java Script can update and change the content of an HTML document dynamically.
+
+D- JavaScript is used for creating dynamic and interactive experiences on the web.
+
+E- JavaScript is case sensitive.
+
+
+HTML--
+
+A- HTML (Hypertext Markup Language) is a markup language used for creating static web pages.
+
+B- HTML is used to define the structure and content of a web page.
+
+C- HTML is declarative and does not have the ability to perform logic or make decisions.
+
+D- HTML is not case sensitive.
+
+E- HTML documents are static and do not change unless modified by a developer.

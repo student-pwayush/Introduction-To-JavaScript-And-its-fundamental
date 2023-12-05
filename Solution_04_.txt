@@ -1,0 +1,6 @@
+The main purpose of variable declaration is to store the required data in the memory location in the form of variables so that we can use them in our program to perform any operation or task. 
+By declaring a variable, we can use that variable in our program by using the variable name and its respective data type.
+
+Just like var in Javascript, let keyword is also used for variable declaration. 
+But the only difference is the variable declared with the “let” keyword is block-scoped and local variable. 
+A variable declared with let will be out of scope outside the block within which it has been declared.

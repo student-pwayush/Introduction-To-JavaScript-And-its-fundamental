@@ -1,0 +1,21 @@
+JavaScript comments can be used to explain JavaScript code, and to make it more readable.
+JavaScript comments can also be used to prevent execution, when testing alternative code.
+
+The example of a single line comment in JavaScript.
+
+Single line comments start with // . Any text between // and the end of the line will be ignored by JavaScript (will not be executed).
+
+The practical implementation of multi-line string using JavaScript programming.
+
+<html>   
+<head>   
+<title> Multiple new lines example </title>   
+</head>   
+<script>  
+       document.write("This is first line display using JavaScript.");  
+       document.write("<br>");    
+       document.write("This is second line and divided using break line tab of HTML.");  
+       document.write("<br>");    
+       document.write("Now, we again printed another new line.")  
+</script>  
+</html>
